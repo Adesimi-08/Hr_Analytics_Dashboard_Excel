@@ -50,7 +50,7 @@ These insights can help HR teams identify workforce patterns and support evidenc
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](./Screenshot_21.png)
+![HR Analytics Dashboard](./Screenshot (21).png)
 
 ## Skills Demonstrated
 
