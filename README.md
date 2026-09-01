@@ -42,15 +42,34 @@ The dashboard provides an overview of:
 - Business travel
 - Employee trends
 
-## Key Insights
-
-The analysis provides a visual overview of workforce characteristics and highlights patterns in employee demographics, departmental distribution, income, attrition, and work-life balance.
-
-These insights can help HR teams identify workforce patterns and support evidence-based decisions around employee retention and workforce management.
-
 ## Dashboard Preview
 
-![HR Analytics Dashboard](./Screenshot (21).png)
+![HR Analytics Dashboard](./Screenshot%20%2821%29.png)
+
+## Key Insights
+
+### Workforce Composition
+- The organisation has 1,473 employees, with males (884) representing a larger proportion of the workforce than females (589).
+- Married employees form the largest marital-status group (675), followed by single employees (471) and divorced employees (327).
+
+### Departmental Distribution
+- Life Sciences has the largest employee population with 606 employees, followed by Medical with 466 employees.
+- Human Resources has the smallest workforce among the departments shown, with 27 employees.
+
+### Employee Attrition
+- 237 employees are classified as having left the organisation, representing an attrition rate of approximately 16.1%.
+
+### Overtime
+- Research & Development accounts for the largest share of recorded overtime at 66%, compared with 30% for Sales and 4% for Human Resources.
+- The concentration of overtime in Research & Development suggests an area for HR to investigate workload, employee wellbeing and potential retention risks.
+
+### Work-Life Balance & Satisfaction
+- Research & Development records higher values for both relational satisfaction and work-life balance than Human Resources and Sales in the displayed analysis.
+- These differences could be explored further to understand the workplace factors influencing employee experience.
+
+### Employee Travel
+- Employee travel patterns vary across departments, with Research & Development showing a notably higher level of frequent travel.
+- Further analysis could examine whether frequent business travel is associated with work-life balance or employee attrition.
 
 ## Skills Demonstrated
 
